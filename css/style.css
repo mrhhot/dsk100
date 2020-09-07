@@ -1,0 +1,303 @@
+
+.dsk100-title {
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 44px;
+color: #696969;
+margin-bottom: 50px;
+}
+
+.dsk100 {
+  position: relative;
+  text-align: center;
+  background-color: #EBEBEB;
+}
+svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.dsk100-bsu {
+  fill: red;
+  opacity: .01;
+}
+.dsk100-bsu:hover {
+  fill: red;
+  transition: opacity .2s ease;
+  opacity: .5;
+  cursor: pointer;
+}
+
+.dsk100-post {
+  fill: red;
+  opacity: .01;
+}
+.dsk100-post:hover {
+  fill: red;
+  transition: opacity .2s ease;
+  opacity: .5;
+  cursor: pointer;
+}
+
+.dsk100-provoloka {
+  fill: red;
+  opacity: .01;
+}
+.dsk100-provoloka:hover {
+  fill: red;
+  transition: opacity .2s ease;
+  opacity: .5;
+  cursor: pointer;
+}
+
+.dsk100-ruchnayarez {
+  fill: red;
+  opacity: .01;
+}
+.dsk100-ruchnayarez:hover {
+  fill: red;
+  transition: opacity .2s ease;
+  opacity: .5;
+  cursor: pointer;
+}
+
+.dsk100-pylesos {
+  fill: red;
+  opacity: .01;
+}
+.dsk100-pylesos:hover {
+  fill: red;
+  transition: opacity .2s ease;
+  opacity: .5;
+  cursor: pointer;
+}
+
+.dsk100-ap {
+  fill: red;
+  opacity: .01;
+}
+.dsk100-ap:hover {
+  fill: red;
+  transition: opacity .2s ease;
+  opacity: .5;
+  cursor: pointer;
+}
+
+.dsk100-portal {
+  fill: red;
+  opacity: .01;
+}
+.dsk100-portal:hover {
+  fill: red;
+  transition: opacity .2s ease;
+  opacity: .5;
+  cursor: pointer;
+}
+
+.dsk100-form {
+  fill: red;
+  opacity: .01;
+}
+.dsk100-form:hover {
+  fill: red;
+  transition: opacity .2s ease;
+  opacity: .5;
+  cursor: pointer;
+}
+
+.dsk100-rez {
+  fill: red;
+  opacity: .01;
+}
+.dsk100-rez:hover {
+  fill: red;
+  transition: opacity .2s ease;
+  opacity: .5;
+  cursor: pointer;
+}
+
+.dsk100-pokrytie {
+  fill: red;
+  opacity: .01;
+}
+.dsk100-pokrytie:hover {
+  fill: red;
+  transition: opacity .2s ease;
+  opacity: .5;
+  cursor: pointer;
+}
+
+.dsk100-zahvat {
+  fill: red;
+  opacity: .01;
+}
+.dsk100-zahvat:hover {
+  fill: red;
+  transition: opacity .2s ease;
+  opacity: .5;
+  cursor: pointer;
+}
+
+
+.dsk100-vyvoz {
+  fill: red;
+  opacity: .01;
+}
+.dsk100-vyvoz:hover {
+  fill: red;
+  transition: opacity .2s ease;
+  opacity: .5;
+  cursor: pointer;
+}
+
+.dsk100-hydro {
+  fill: red;
+  opacity: .01;
+}
+.dsk100-hydro:hover {
+  fill: red;
+  transition: opacity .2s ease;
+  opacity: .5;
+  cursor: pointer;
+}
+
+.dsk100-natyazhenie {
+  fill: red;
+  opacity: .01;
+}
+.dsk100-natyazhenie:hover {
+  fill: red;
+  transition: opacity .2s ease;
+  opacity: .5;
+  cursor: pointer;
+}
+
+.dsk100-upory {
+  fill: red;
+  opacity: .01;
+}
+.dsk100-upory:hover {
+  fill: red;
+  transition: opacity .2s ease;
+  opacity: .5;
+  cursor: pointer;
+}
+
+.dsk100-discriprion {
+  display: none;
+  position: absolute;
+  padding: 20px;
+  box-sizing: border-box;
+  background: #EDEDED;
+  border: 1px solid #767676;
+  box-shadow: 0px 0px 3px 3px rgba(0, 0, 0, 0.1);
+  border-radius: 40px;
+  width: 30%;
+  height: 40%;
+  right: 2%;
+  bottom: 1%;
+  font-family: Roboto;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 18px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.dsk100-discriprion img {
+  float: left;
+  width: 50%;
+}
+
+.dsk100-discriprion p {
+  text-align: left;
+  float: right;
+  width: 50%;
+  font-family: Roboto;
+  font-style: normal;
+  font-size: 12px;
+  line-height: 14px;
+  color: #696969;
+}
+
+
+.dsk100-banner {
+    position: absolute;
+    width: 60%;
+    left: 3%;
+    top: -5%;
+    background: rgba(235, 235, 235, 0.9);
+    border: 1px solid #767676;
+    box-sizing: border-box;
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+    text-align: left;
+    padding-top: 3.5%;
+}
+
+.dsk100-banner-title {
+    position: absolute;
+    height: 25px;
+    top: 5px;
+    left: 1%;
+    z-index: 2;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.banner-title {
+  text-align: left;
+}
+
+.banner__spec li {
+  list-style-type: circle;
+  cursor: pointer;
+  page-break-inside: avoid;
+  break-inside: avoid;
+  color: #767676;
+}
+
+.banner__spec {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 120px;
+    width: 90%;
+    margin-left: 5%;
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: left;
+    margin-bottom: 1%;
+}
+
+
+/*.dsk100-button {
+    width: 133px;
+    height: 26px;
+    background: rgba(196, 196, 196, 0.4);
+    border: 1px solid #767676;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 10%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #696969;
+}*/
+
+
+.dsk100-plant {}
